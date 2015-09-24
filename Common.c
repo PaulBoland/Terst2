@@ -3,7 +3,7 @@
 
 ///////////////////////////////////////////////////////////////////////
 // Function   : ConvertFromBCDasasasas
-// Purpose    : Converts a received bcd encoded string into
+// Purpose    : Converts a received bcd encoded string into.bbbb
 //              an integer
 // Parameters : bp: Address of bcd array 
 //              size of array
