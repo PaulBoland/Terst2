@@ -2,7 +2,7 @@
 //#include "Common.h"
 
 ///////////////////////////////////////////////////////////////////////
-// Function   : ConvertFromBCD
+// Function   : ConvertFromBCDasasasas
 // Purpose    : Converts a received bcd encoded string into
 //              an integer
 // Parameters : bp: Address of bcd array 
